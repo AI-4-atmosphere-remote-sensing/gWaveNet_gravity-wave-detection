@@ -6,5 +6,5 @@
 
 <img src="gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="200" height="200">
 
-![Gabor Filters](/state-of-the-art_methods/gabor-filters/gabor_filters.png)
+![Gabor Filters](/state-of-the-art_methods/gabor-filters/gabor_filters.png=200x200)
 
