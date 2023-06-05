@@ -6,5 +6,5 @@
 
 <img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="600" height="150">
 
-![Gabor Filters](/state-of-the-art_methods/gabor-filters/gabor_filters.png=600*150)
+<!-- ![Gabor Filters](/state-of-the-art_methods/gabor-filters/gabor_filters.png=600*150) -->
 
