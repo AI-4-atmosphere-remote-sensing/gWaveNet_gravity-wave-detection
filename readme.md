@@ -3,5 +3,5 @@
 ### state-of-the-art comparision
 ## -Gabor-
 # Filters used 
-![filters](state-of-the-art_methods/gabor-filters/gabor-filters.png =200x200)
+![gabor-filters.png](state-of-the-art_methods/gabor-filters/gabor-filters.png =200x200)
 
