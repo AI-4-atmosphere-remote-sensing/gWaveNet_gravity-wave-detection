@@ -3,5 +3,5 @@
 ### state-of-the-art comparision
 ## -Gabor-
 # Filters used 
-![gabor](./gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters//gabor-filters.png =200x200)
+![Gabor Filters](gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/gabor-filters.png)
 
