@@ -1,7 +1,7 @@
 # This repo provides additional supplments for the submitted work.
 
 ## state-of-the-art comparision
-### -Gabor-
+### 1 -Gabor-
 #### Filters used 
 
 <img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="600" height="150">
