@@ -10,4 +10,5 @@
 
 <img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="Gabor Filters" width="260" height="180">
 
+#### Code (model_gabor.py) and output (out.out) are in the ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
 
