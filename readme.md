@@ -1,4 +1,4 @@
-# this repo is to provide additional supplments for the submitted work. It will not be explained in detail here at this moment until the acceptance.
+# This repo provides additional supplments for the submitted work.
 
 ## state-of-the-art comparision
 ### -Gabor-
