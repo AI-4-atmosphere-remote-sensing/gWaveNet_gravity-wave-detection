@@ -8,7 +8,7 @@
 
 #### Optimization 
 
-<img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="Gabor Filters" width="260" height="180">
+<img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="Gabor Filters" width="400" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
