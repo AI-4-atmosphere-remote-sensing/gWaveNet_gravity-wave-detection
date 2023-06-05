@@ -4,7 +4,7 @@
 ### -Gabor-
 #### Filters used 
 
-<img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="200" height="200">
+<img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="700" height="200">
 
 ![Gabor Filters](/state-of-the-art_methods/gabor-filters/gabor_filters.png=200x200)
 
