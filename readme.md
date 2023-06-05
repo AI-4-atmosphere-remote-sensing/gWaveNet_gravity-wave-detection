@@ -8,6 +8,6 @@
 
 #### Optimization 
 
-<img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="Gabor Filters" width="300" height="260">
+<img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="Gabor Filters" width="260" height="220">
 
 
