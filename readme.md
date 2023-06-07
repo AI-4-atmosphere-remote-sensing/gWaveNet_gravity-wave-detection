@@ -76,3 +76,16 @@ VERTICAL
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-2/```
+
+## Ablation study
+### 1 -Custom Kernel-
+#### Our proposed Kernel
+```python
+[1, 0, 1, 0, 1, 0, 1],
+    [0, 1, 0, 1, 0, 1, 0],
+    [1, 0, 1, 0, 1, 0, 1],
+    [0, 1, 0, 1, 0, 1, 0],
+    [1, 0, 1, 0, 1, 0, 1],
+    [0, 1, 0, 1, 0, 1, 0],
+    [1, 0, 1, 0, 1, 0, 1]
+    ```
