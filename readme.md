@@ -91,20 +91,20 @@ VERTICAL
 ```
 #### Optimization results for a vanilla model (with no custom kernel applied) - TEST_1
 
-<img src="/ablation_study/no-custom-kernel-applied/comb_1.png" alt="v1" width="450" height="300">
+<img src="/ablation-study/no-custom-kernel-applied/comb_1.png" alt="v1" width="450" height="300">
 
 #### Optimization results for a vanilla model (with no custom kernel applied) - TEST_2
 
-<img src="/ablation_study/no-custom-kernel-applied/comb_2.png" alt="v2" width="450" height="300">
+<img src="/ablation-study/no-custom-kernel-applied/comb_2.png" alt="v2" width="450" height="300">
 
 
 #### Optimization results using the kernel above with trainable layers
 
-<img src="/ablation_study/custom-kernel-applied-trainable/comb_.png" alt="ck" width="450" height="300">
+<img src="/ablation-study/custom-kernel-applied-trainable/comb_.png" alt="ck" width="450" height="300">
 
 
 #### Optimization results using the kernel above with non-trainable layers
 
-<img src="/ablation_study/custom-kernel-applied-non-trainable/comb_.png" alt="ck" width="450" height="300">
+<img src="/ablation-study/custom-kernel-applied-non-trainable/comb_.png" alt="ck" width="450" height="300">
 
 
