@@ -35,17 +35,17 @@ VERTICAL
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/```
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters_1/```
 
 ### 3 -Sobel Filters used DURING the training
 #### Filters (same as above)
 #### Optimization 
 
-<img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/sobel-filters-2/comb_.png" alt="Gabor Filters" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-1/```
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/```
 
 ### 4 -Laplacian Filter used PRIOR training
 #### Filters are as follows
@@ -60,13 +60,13 @@ VERTICAL
  ```
 #### Optimization 
 
-<img src="/state-of-the-art_methods/laplacian--1/comb_.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/laplacian-1/comb_.png" alt="Gabor Filters" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-1/```
 
-### 3 -Laplacian Filter used DURING the training
+### 5 -Laplacian Filter used DURING the training
 #### Filters (same as above)
 #### Optimization 
 
