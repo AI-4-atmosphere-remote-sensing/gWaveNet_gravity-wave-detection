@@ -17,16 +17,18 @@
 ### 1 -Sobel-
 #### Filters used 
 
- ```[ -1,  0,  1],
+ ```python
+ [ -1,  0,  1],
  
  [ -2,  0,  2],
  
- [ -1,  0,  1]```
+ [ -1,  0,  1]
+ ```
 
 #### Optimization 
 
-<img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="Gabor Filters" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters_1/```
