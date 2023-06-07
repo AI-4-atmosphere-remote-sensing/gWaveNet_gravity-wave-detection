@@ -17,6 +17,8 @@
 ### 1 -Sobel-
 #### Filters used 
 
+HORIZONTAL
+
  ```python
  [ -1,  0,  1],
  
@@ -24,6 +26,13 @@
  
  [ -1,  0,  1]
  ```
+
+VERTICAL
+```python
+[ -1, -2, -1],
+[  0,  0,  0],
+[  1,  2,  1]
+```
 
 #### Optimization 
 
