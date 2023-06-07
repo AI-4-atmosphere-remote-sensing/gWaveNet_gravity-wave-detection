@@ -4,6 +4,7 @@
 ### 1 -Gabor-
 #### Filters used 
 ```orientation of angels are: [0, 30, 60, 120, 150]```
+
 <img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="600" height="150">
 
 #### Optimization 
