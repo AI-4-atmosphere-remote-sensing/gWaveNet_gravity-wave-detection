@@ -32,7 +32,7 @@ VERTICAL
 
 #### Optimization 
 
-<img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="son-prr" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -42,7 +42,7 @@ VERTICAL
 #### Filters (same as above)
 #### Optimization 
 
-<img src="/state-of-the-art_methods/sobel-filters-2/comb_.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/sobel-filters-2/comb_.png" alt="sob-dur" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -61,7 +61,7 @@ VERTICAL
  ```
 #### Optimization 
 
-<img src="/state-of-the-art_methods/laplacian-1/comb_.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/laplacian-1/comb_.png" alt="lap-prr" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -71,7 +71,7 @@ VERTICAL
 #### Filters (same as above)
 #### Optimization 
 
-<img src="/state-of-the-art_methods/laplacian-2/comb.png" alt="Gabor Filters" width="450" height="300">
+<img src="/state-of-the-art_methods/laplacian-2/comb.png" alt="lap-dur" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -79,13 +79,32 @@ VERTICAL
 
 ## Ablation study
 ### 1 -Custom Kernel-
-#### Our proposed Kernel
+#### Our proposed Kernel [a 7x7 example]
 ```python
 [1, 0, 1, 0, 1, 0, 1],
-    [0, 1, 0, 1, 0, 1, 0],
-    [1, 0, 1, 0, 1, 0, 1],
-    [0, 1, 0, 1, 0, 1, 0],
-    [1, 0, 1, 0, 1, 0, 1],
-    [0, 1, 0, 1, 0, 1, 0],
-    [1, 0, 1, 0, 1, 0, 1]
-    ```
+[0, 1, 0, 1, 0, 1, 0],
+[1, 0, 1, 0, 1, 0, 1],
+[0, 1, 0, 1, 0, 1, 0],
+[1, 0, 1, 0, 1, 0, 1],
+[0, 1, 0, 1, 0, 1, 0],
+[1, 0, 1, 0, 1, 0, 1]
+```
+#### Optimization results for a vanilla model (with no custom kernel applied) - TEST_1
+
+<img src="/ablation_study/no-custom-kernel-applied/comb_1.png" alt="v1" width="450" height="300">
+
+#### Optimization results for a vanilla model (with no custom kernel applied) - TEST_2
+
+<img src="/ablation_study/no-custom-kernel-applied/comb_2.png" alt="v2" width="450" height="300">
+
+
+#### Optimization results using the kernel above with trainable layers
+
+<img src="/ablation_study/custom-kernel-applied-trainable/comb_.png" alt="ck" width="450" height="300">
+
+
+#### Optimization results using the kernel above with non-trainable layers
+
+<img src="/ablation_study/custom-kernel-applied-non-trainable/comb_.png" alt="ck" width="450" height="300">
+
+
