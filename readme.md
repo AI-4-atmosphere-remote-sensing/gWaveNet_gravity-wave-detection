@@ -14,19 +14,14 @@
 
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
 
-### 1 -Sobel-
-#### Filters used 
-
+### 2 -Sobel-
+#### Filters used DURING training
 HORIZONTAL
-
  ```python
  [ -1,  0,  1],
- 
  [ -2,  0,  2],
- 
  [ -1,  0,  1]
  ```
-
 VERTICAL
 ```python
 [ -1, -2, -1],
@@ -40,4 +35,14 @@ VERTICAL
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters_1/```
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/```
+
+### 2 -Sobel-
+#### Filters (same as above) used DURING training
+#### Optimization 
+
+<img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="Gabor Filters" width="450" height="300">
+
+#### Code (model_gabor.py) including filters and output (out.out) are in the:
+
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-1/```
