@@ -105,6 +105,6 @@ VERTICAL
 
 #### Optimization results using the kernel above with non-trainable layers
 
-<img src="/ablation-study/custom-kernel-applied-non-trainable/comb_.png" alt="ck" width="450" height="300">
+<img src="/ablation-study/custom-kernel-applied-non-trainable/comb.png" alt="ck" width="450" height="300">
 
 
