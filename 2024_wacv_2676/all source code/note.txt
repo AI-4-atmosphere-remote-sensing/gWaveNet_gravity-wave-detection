@@ -1,0 +1,2 @@
+note:
+to apply the kernels first on all images use "apply_custom_kernel_prior_training.py" first then train models with "gWaveNet_noK-no-custom-kerlnel_layer.py". "gWaveNet_noK-no-custom-kerlnel_layer.py" is also used for gWaveNet model training with no custom kernel layers using the raw (no preprocessing) png files.
