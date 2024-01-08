@@ -2,7 +2,7 @@
 
 ## All source codes are in the "source code" dir.
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
+```gWaveNet_gravity-wave-detection/source code```
 
 ## state-of-the-art comparision
 ### 1 -Gabor-
