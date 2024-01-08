@@ -7,10 +7,9 @@
 
 <img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="600" height="150">
 
-<!-- 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/``` -->
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
 
 ### 2 -Sobel Filters used PRIOR training
 #### Filters are as follows
