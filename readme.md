@@ -12,7 +12,7 @@
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
 
 #### Results after Gabor Filters used
-<img src="/state-of-the-art_methods/gabor-filters/g1.png" alt="Gabor Filters" width="400" height="100">
+<img src="/state-of-the-art_methods/gabor-filters/gabor_filters_in_action.png" alt="Gabor Filters" width="500" height="500">
 <img src="/state-of-the-art_methods/gabor-filters/g2.png" alt="Gabor Filters" width="400" height="100">
 <img src="/state-of-the-art_methods/gabor-filters/g3.png" alt="Gabor Filters" width="400" height="100">
 
