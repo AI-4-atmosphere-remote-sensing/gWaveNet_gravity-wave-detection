@@ -42,7 +42,6 @@ VERTICAL
 ### 3 -Sobel Filters used DURING the training
 #### Filters (same as above)
 
-
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/```
@@ -59,7 +58,6 @@ VERTICAL
  [ 0,  0,  1,  1,  1,  0,  0]
  ```
 
-
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-1/```
@@ -71,6 +69,10 @@ VERTICAL
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
 ```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-2/```
+
+#### We applied FFT denoising technique which shows potential loss in our object of interest (GW) as follows
+
+<img src="/state-of-the-art_methods/fft-based--approach/fft_denoised.png" alt="Gabor Filters" width="400" height="100">
 
 ## Ablation study
 ### 1 -Custom Kernel-
