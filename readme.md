@@ -40,9 +40,9 @@ VERTICAL
 
 <img src="/state-of-the-art_methods/sobel-filters-2/comb_.png" alt="sob-dur" width="450" height="300">
 
-<!-- #### Code (model_gabor.py) including filters and output (out.out) are in the:
+#### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/``` -->
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/```
 
 ### 4 -Laplacian Filter used PRIOR training
 #### Filters are as follows
@@ -59,9 +59,9 @@ VERTICAL
 
 <img src="/state-of-the-art_methods/laplacian-1/comb_.png" alt="lap-prr" width="450" height="300">
 
-<!-- #### Code (model_gabor.py) including filters and output (out.out) are in the:
+#### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-1/``` -->
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-1/```
 
 ### 5 -Laplacian Filter used DURING the training
 #### Filters (same as above)
@@ -69,9 +69,9 @@ VERTICAL
 
 <img src="/state-of-the-art_methods/laplacian-2/comb.png" alt="lap-dur" width="450" height="300">
 
-<!-- #### Code (model_gabor.py) including filters and output (out.out) are in the:
+#### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-2/``` -->
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-2/```
 
 ## Ablation study
 ### 1 -Custom Kernel-
