@@ -16,7 +16,7 @@
 <img src="/state-of-the-art_methods/gabor-filters/g2.png" alt="Gabor Filters" width="400" height="100">
 <img src="/state-of-the-art_methods/gabor-filters/g3.png" alt="Gabor Filters" width="400" height="100">
 
-
+#### As we can see, applying the gabor filters did not result in gravity wave detection.
 
 ### 2 -Sobel Filters used PRIOR training
 #### Filters are as follows
