@@ -26,9 +26,7 @@ VERTICAL
 [  1,  2,  1]
 ```
 
-#### Optimization 
 
-<img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="son-prr" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -36,9 +34,7 @@ VERTICAL
 
 ### 3 -Sobel Filters used DURING the training
 #### Filters (same as above)
-#### Optimization 
 
-<img src="/state-of-the-art_methods/sobel-filters-2/comb_.png" alt="sob-dur" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -55,9 +51,7 @@ VERTICAL
  [ 0,  1,  3,  3,  3,  1,  0],
  [ 0,  0,  1,  1,  1,  0,  0]
  ```
-#### Optimization 
 
-<img src="/state-of-the-art_methods/laplacian-1/comb_.png" alt="lap-prr" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
@@ -65,9 +59,7 @@ VERTICAL
 
 ### 5 -Laplacian Filter used DURING the training
 #### Filters (same as above)
-#### Optimization 
 
-<img src="/state-of-the-art_methods/laplacian-2/comb.png" alt="lap-dur" width="450" height="300">
 
 #### Code (model_gabor.py) including filters and output (out.out) are in the:
 
