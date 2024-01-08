@@ -1,15 +1,15 @@
 # This repo provides additional supplments for the submitted work.
 
+## All source codes are in the "source code" dir.
+
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
+
 ## state-of-the-art comparision
 ### 1 -Gabor-
 #### Filters used 
 ```orientation of angels are: [0, 30, 60, 120, 150]```
 
 <img src="/state-of-the-art_methods/gabor-filters/gabor_filters.png" alt="Gabor Filters" width="600" height="150">
-
-#### Code (model_gabor.py) including filters and output (out.out) are in the:
-
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/gabor-filters/```
 
 #### Results after Gabor Filters used
 <img src="/state-of-the-art_methods/gabor-filters/gabor_filters_in_action.png" alt="Gabor Filters" width="500" height="500">
@@ -31,18 +31,9 @@ VERTICAL
 [  1,  2,  1]
 ```
 
-
-
-#### Code (model_gabor.py) including filters and output (out.out) are in the:
-
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters_1/```
-
 ### 3 -Sobel Filters used DURING the training
 #### Filters (same as above)
 
-#### Code (model_gabor.py) including filters and output (out.out) are in the:
-
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters-2/```
 
 ### 4 -Laplacian Filter used PRIOR training
 #### Filters are as follows
@@ -56,17 +47,9 @@ VERTICAL
  [ 0,  0,  1,  1,  1,  0,  0]
  ```
 
-#### Code (model_gabor.py) including filters and output (out.out) are in the:
-
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-1/```
-
 ### 5 -Laplacian Filter used DURING the training
 #### Filters (same as above)
 
-
-#### Code (model_gabor.py) including filters and output (out.out) are in the:
-
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/laplacian-2/```
 
 #### We applied FFT denoising technique which shows potential loss in our object of interest (GW) as follows
 
@@ -85,5 +68,3 @@ VERTICAL
 [0, 1, 0, 1, 0, 1, 0],
 [1, 0, 1, 0, 1, 0, 1]
 ```
-
-
