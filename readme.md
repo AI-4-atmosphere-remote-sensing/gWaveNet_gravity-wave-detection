@@ -30,9 +30,9 @@ VERTICAL
 
 <img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="son-prr" width="450" height="300">
 
-<!-- #### Code (model_gabor.py) including filters and output (out.out) are in the:
+#### Code (model_gabor.py) including filters and output (out.out) are in the:
 
-```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters_1/``` -->
+```gWaveNet_gravity-wave-detection/state-of-the-art_methods/sobel-filters_1/```
 
 ### 3 -Sobel Filters used DURING the training
 #### Filters (same as above)
