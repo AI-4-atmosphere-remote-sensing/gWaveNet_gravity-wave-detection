@@ -72,7 +72,7 @@ VERTICAL
 
 #### We applied FFT denoising technique which shows potential loss in our object of interest (GW) as follows
 
-<img src="/state-of-the-art_methods/fft-based--approach/fft_denoised.png" alt="Gabor Filters" width="400" height="100">
+<img src="/fft-based--approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
 
 ## Ablation study
 ### 1 -Custom Kernel-
