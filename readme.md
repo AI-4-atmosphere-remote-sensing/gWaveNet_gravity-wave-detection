@@ -74,7 +74,7 @@ VERTICAL
 |:--:| 
 | *Optimization plot for Gabor 7x7 filter* |
 
-| <img src="//state-of-the-art_methods/laplacian-2/comb.png" alt="lap" width="400" height="275"> |
+| <img src="/state-of-the-art_methods/laplacian-1/comb_.png" alt="lap" width="400" height="275"> |
 |:--:| 
 | *Optimization plot for Laplacian 7x7 filter* |
 
