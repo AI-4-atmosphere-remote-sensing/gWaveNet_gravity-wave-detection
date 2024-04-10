@@ -113,4 +113,4 @@ VERTICAL
 
 | <img src="/ablation-study/custom-kernel-applied-trainable/opt-multi_k.png" alt="mul" width="400" height="275"> |
 |:--:| 
-| *Optimization plot using proposed multiple 7x7 checkerboard kernel in the same layer* |
+| *Optimization plot using multiplw 7x7 kernels* |
