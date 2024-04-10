@@ -70,7 +70,9 @@ VERTICAL
 [1, 0, 1, 0, 1, 0, 1]
 ```
 ### Following are the optimization plots to compare-
-<img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="gab" width="400" height="275">
+| <img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="gab" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for Gabor filter* |
 <em> Optimization plot for Gabor filter</em>
 
 Ii) -optimization plot using Lappacian filter-
