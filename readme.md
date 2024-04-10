@@ -69,7 +69,7 @@ VERTICAL
 [0, 1, 0, 1, 0, 1, 0],
 [1, 0, 1, 0, 1, 0, 1]
 ```
-### Following are the optimization plots to compare-
+### Following are the optimization plots for State-of-the-art techniques-
 | <img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="gab" width="400" height="275"> |
 |:--:| 
 | *Optimization plot for Gabor 7x7 filter* |
@@ -88,7 +88,7 @@ VERTICAL
 
 | <img src="/fft-based-approach/fft-denoised-data-trainable-kernel/fft_based.png" alt="fft" width="400" height="275"> |
 |:--:| 
-| *Optimization plot for FFT based approach* |
+| *Optimization plot for FFT based approach using a 7x7 kernel* |
 
 | <img src="/state-of-the-art_methods/vgg16/vgg16_base.png" alt="vggbase" width="400" height="275"> |
 |:--:| 
@@ -98,13 +98,3 @@ VERTICAL
 |:--:| 
 | *Optimization plot for VGG16 with a 3x3 custom kernel* |
 
-optimization plot using Lappacian filter-
-<img src="" alt="lap" width="400" height="100">
-<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
-<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
-<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
-<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
-
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
-|:--:| 
-| *Space* |
