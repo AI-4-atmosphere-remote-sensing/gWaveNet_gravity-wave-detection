@@ -68,3 +68,10 @@ VERTICAL
 [0, 1, 0, 1, 0, 1, 0],
 [1, 0, 1, 0, 1, 0, 1]
 ```
+### Following are the optimization plots to compare-
+<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
+<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
+<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
+<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
+<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
+<img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
