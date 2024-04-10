@@ -98,3 +98,19 @@ VERTICAL
 |:--:| 
 | *Optimization plot for VGG16 with a 3x3 custom kernel* |
 
+### Following are the optimization plots from our proposed approach (ablation studies)-
+| <img src="/ablation-study/custom-kernel-applied-trainable/opt-5x5-t.png" alt="5x5" width="400" height="275"> |
+|:--:| 
+| *Optimization plot using a proposed 5x5 checkerboard kernel* |
+
+| <img src="/ablation-study/custom-kernel-applied-trainable/opt-7x7.png" alt="7x7" width="400" height="275"> |
+|:--:| 
+| *Optimization plot using a proposed 7x7 checkerboard kernel* |
+
+| <img src="/ablation-study/custom-kernel-applied-trainable/opt-9x9.png" alt="9x9" width="400" height="275"> |
+|:--:| 
+| *Optimization plot using a proposed 9x9 checkerboard kernel* |
+
+| <img src="/ablation-study/custom-kernel-applied-trainable/opt-multi_k.png" alt="mul" width="400" height="275"> |
+|:--:| 
+| *Optimization plot using proposed multiple 7x7 checkerboard kernel in the same layer* |
