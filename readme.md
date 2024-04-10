@@ -16,7 +16,7 @@
 
 #### As we can see, applying the gabor filters did not result in gravity wave detection.
 
-### 2 -Sobel Filters used PRIOR training
+### 2 -Sobel Filters used PRIOR training-
 #### Filters are as follows
 HORIZONTAL
  ```python
@@ -31,11 +31,11 @@ VERTICAL
 [  1,  2,  1]
 ```
 
-### 3 -Sobel Filters used DURING the training
+### 3 -Sobel Filters used DURING the training-
 #### Filters (same as above)
 
 
-### 4 -Laplacian Filter used PRIOR training
+### 4 -Laplacian Filter used PRIOR training-
 #### Filters are as follows
  ```python
  [ 0,  0,  1,  1,  1,  0,  0],
@@ -47,7 +47,7 @@ VERTICAL
  [ 0,  0,  1,  1,  1,  0,  0]
  ```
 
-### 5 -Laplacian Filter used DURING the training
+### 5 -Laplacian Filter used DURING the training-
 #### Filters (same as above)
 
 
