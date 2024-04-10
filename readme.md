@@ -72,11 +72,34 @@ VERTICAL
 ### Following are the optimization plots to compare-
 | <img src="/state-of-the-art_methods/gabor-filters/comb_.png" alt="gab" width="400" height="275"> |
 |:--:| 
-| *Optimization plot for Gabor filter* |
-<em> Optimization plot for Gabor filter</em>
+| *Optimization plot for Gabor 7x7 filter* |
 
-Ii) -optimization plot using Lappacian filter-
-<img src="/state-of-the-art_methods/laplacian-2/comb.png" alt="lap" width="400" height="100">
+| <img src="//state-of-the-art_methods/laplacian-2/comb.png" alt="lap" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for Laplacian 7x7 filter* |
+
+| <img src="/state-of-the-art_methods/sobel-filters_1/comb_.png" alt="sob" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for Sobel 3x3 filter* |
+
+| <img src="/state-of-the-art_methods/ViT/vit.png" alt="vit" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for Vision Transformer based approach* |
+
+| <img src="/fft-based-approach/fft-denoised-data-trainable-kernel/fft_based.png" alt="fft" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for FFT based approach* |
+
+| <img src="/state-of-the-art_methods/vgg16/vgg16_base.png" alt="vggbase" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for VGG16 without having any kernel* |
+
+| <img src="/state-of-the-art_methods/vgg16/vgg16_3x3_kernel.png" alt="vgg33" width="400" height="275"> |
+|:--:| 
+| *Optimization plot for VGG16 with a 3x3 custom kernel* |
+
+optimization plot using Lappacian filter-
+<img src="" alt="lap" width="400" height="100">
 <img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
 <img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
 <img src="/fft-based-approach/fft_denoised.png" alt="fft_denoised" width="400" height="100">
