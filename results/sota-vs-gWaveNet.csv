@@ -1,0 +1,14 @@
+Methods,Architecture,Train Accuracy,Validation Accuracy,Test Accuracy,F1 Score,Train config.
+ViT,Transformer,89.12,86.08,83.74,79.71,nckl
+VGG16,VGG,100.00,81.52,61.91,60.15,nckl
+VGG16_3x3_t,VGG,87.86,80.19,68.74,66.29,trainable
+Gabor_7x7_t,gWaveNet,95.24,93.46,89.17,88.35,trainable
+Sobel_3x3_kapt,gWaveNet,88.76,85.35,82.91,80.89,kapt
+Sobel_3x3_t,gWaveNet,91.23,87.17,83.74,82.24,trainable
+Laplacian_7x7_kapt,gWaveNet,86.44,83.50,76.66,74.38,kapt
+Laplacian_7x7_t,gWaveNet,90.91,87.19,79.16,80.00,trainable
+FFT,gWaveNet,76.59,75.04,70.66,69.50,nckl
+FFT_7x7_nt,gWaveNet,92.68,91.64,84.47,82.19,non-trainable
+FFT_7x7_t,gWaveNet,93.78,92.50,90.78,90.07,trainable
+gWaveNet_5x5_nt,gWaveNet,94.40,93.16,93.75,91.89,non-trainable
+gWaveNet_7x7_t,gWaveNet,98.10,96.53,94.21,93.69,trainable

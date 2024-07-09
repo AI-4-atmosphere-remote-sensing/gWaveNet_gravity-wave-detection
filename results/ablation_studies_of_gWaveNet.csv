@@ -1,0 +1,16 @@
+Methods,Train Accuracy,Validation Accuracy,Test Accuracy,F1 Score,Train config.
+gWaveNet_3x3_t,97.17,95.23,92.43,92.00,trainable
+gWaveNet_5x5_t,98.43,97.22,93.75,92.11,trainable
+gWaveNet_7x7_t,98.10,96.53,94.21,93.69,trainable
+gWaveNet_9x9_t,97.22,95.01,91.06,91.55,trainable
+gWaveNet_3x3_nt,91.38,90.25,87.50,86.63,non-trainable
+gWaveNet_5x5_nt,94.40,93.16,93.75,91.89,non-trainable
+gWaveNet_7x7_nt,97.53,95.60,92.50,91.61,non-trainable
+gWaveNet_9x9_nt,93.94,92.80,91.66,90.88,non-trainable
+gWaveNet_3x3_pt,97.21,95.69,90.83,89.47,kapt
+gWaveNet_5x5_pt,96.64,94.94,91.75,90.29,kapt
+gWaveNet_7x7_pt,97.72,96.03,93.24,93.07,kapt
+gWaveNet_9x9_pt,97.77,95.94,93.58,92.46,kapt
+gWaveNet_noK,82.49,85.20,76.77,75.22,nckl
+gWaveNet_16K_7x7,93.49,91.69,92.50,91.53,trainable-16
+gWaveNet_64K_7x7,93.33,91.61,90.13,89.07,trainable-64
