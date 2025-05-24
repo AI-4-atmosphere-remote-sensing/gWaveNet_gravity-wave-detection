@@ -1,4 +1,19 @@
-# This repo provides additional supplments for the submitted work.
+# This repo provides supplments for the gWaveNet work.
+
+#### Kindly consider citing this work if you have utilized any of its ideas or code, in whole or in part. Your acknowledgment would be greatly appreciated and serve as motivation for us to continue producing high-quality work in the future.
+
+Mostafa, Seraj Al Mahmud, Omar Faruque, Chenxi Wang, Jia Yue, Sanjay Purushotham, and Jianwu Wang. "gWaveNet: Classification of Gravity Waves from Noisy Satellite Data Using Custom Kernel Integrated Deep Learning Method." In International Conference on Pattern Recognition, pp. 164-180. Springer, Cham, 2025. (You can find the Springer version [here](https://link.springer.com/chapter/10.1007/978-3-031-78122-3_11) and also available in [arXiv](https://arxiv.org/abs/2408.14674). Bibtex are as follows:
+
+```
+@inproceedings{mostafa2025gwavenet,
+  title={gWaveNet: Classification of Gravity Waves from Noisy Satellite Data Using Custom Kernel Integrated Deep Learning Method},
+  author={Mostafa, Seraj Al Mahmud and Faruque, Omar and Wang, Chenxi and Yue, Jia and Purushotham, Sanjay and Wang, Jianwu},
+  booktitle={International Conference on Pattern Recognition},
+  pages={164--180},
+  year={2025},
+  organization={Springer}
+}
+```
 
 ## All source codes are in the "source code" dir.
 
